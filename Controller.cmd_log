@@ -1,0 +1,5 @@
+vhdtdtfi -prj CS56-FinalProject -o O:/ENGS31/CS56-FinalProject/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Controller.vhi -module Controller -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Controller.vhd 

@@ -1,0 +1,5 @@
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/pwm.vhi -module pwm -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pwm.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/pwm.vhi -module pwm -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pwm.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/pwm.vhi -module pwm -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pwm.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/pwm.vhi -module pwm -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pwm.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/pwm.vhi -module pwm -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work pwm.vhd 

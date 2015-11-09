@@ -1,0 +1,7 @@
+work	"Controller.vhd"
+work	"Keyboard_TOP.vhd"
+work	"Phase_Accumulator.vhd"
+work	"debouncer.vhd"
+work	"ipcore_dir/SineWave.vhd"
+work	"mux7seg_final.vhd"
+work	"pwm.vhd"

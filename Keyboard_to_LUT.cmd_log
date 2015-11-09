@@ -1,0 +1,1 @@
+vhdtdtfi -prj CS56-FinalProject -o O:/ENGS31/CS56-FinalProject/Keyboard_to_LUT.vhi -module Keyboard_to_LUT -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Keyboard_to_LUT.vhd 

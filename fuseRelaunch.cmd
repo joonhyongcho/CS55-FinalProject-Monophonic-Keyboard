@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "O:/engs31/CS56-FinalProject/FINAL_TB_EVER_isim_beh.exe" -prj "O:/engs31/CS56-FinalProject/FINAL_TB_EVER_beh.prj" "work.FINAL_TB_EVER" 

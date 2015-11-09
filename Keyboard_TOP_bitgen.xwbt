@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=O:\engs31\CS56-FinalProject\Keyboard_TOP.ncd
+OUTFILE=O:\engs31\CS56-FinalProject\Keyboard_TOP.bit
+FAMILY=Spartan6
+PART=xc6slx16-2csg324
+WORKINGDIR=O:\engs31\CS56-FinalProject
+LICENSE=ISE
+USER_INFO=210643936_1777485687_210562918_123

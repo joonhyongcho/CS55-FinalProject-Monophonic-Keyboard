@@ -1,0 +1,1 @@
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/debouncer.vhi -module debouncer -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work debouncer.vhd 

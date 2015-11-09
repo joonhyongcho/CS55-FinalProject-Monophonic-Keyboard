@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="O:/engs31/CS56-FinalProject/FINAL_TB_EVER_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="bip_usecase_utils_pkg_v2_0" />
+            <top_module name="bip_utils_pkg_v2_0" />
+            <top_module name="dds_compiler_v4_0_sim_comps" />
+            <top_module name="final_tb_ever" />
+            <top_module name="math_real" />
+            <top_module name="numeric_std" />
+            <top_module name="pkg_dds_compiler_v4_0" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_signed" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="xbip_pipe_v2_0_comp" />
+            <top_module name="xbip_pipe_v2_0_xst_comp" />
+            <top_module name="xcc_utils_v2_0" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/final_tb_ever/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/button_octave" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">button_octave</obj_property>
+      <obj_property name="ObjectShortName">button_octave</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/button1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">button1</obj_property>
+      <obj_property name="ObjectShortName">button1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/button2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">button2</obj_property>
+      <obj_property name="ObjectShortName">button2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/button6" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">button6</obj_property>
+      <obj_property name="ObjectShortName">button6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/button10" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">button10</obj_property>
+      <obj_property name="ObjectShortName">button10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/keyboard_value" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">keyboard_value[3:0]</obj_property>
+      <obj_property name="ObjectShortName">keyboard_value[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/curcur_octave" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">curcur_octave[1:0]</obj_property>
+      <obj_property name="ObjectShortName">curcur_octave[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/octave" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">octave[1:0]</obj_property>
+      <obj_property name="ObjectShortName">octave[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/ps" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ps</obj_property>
+      <obj_property name="ObjectShortName">ps</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/ns" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ns</obj_property>
+      <obj_property name="ObjectShortName">ns</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/skip_increment" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">skip_increment</obj_property>
+      <obj_property name="ObjectShortName">skip_increment</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/temp_increment_temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temp_increment_temp[10:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_increment_temp[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/increment_temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">increment_temp[10:0]</obj_property>
+      <obj_property name="ObjectShortName">increment_temp[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Controller/increment" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">increment[10:0]</obj_property>
+      <obj_property name="ObjectShortName">increment[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/key_hold_value" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">key_hold_value[3:0]</obj_property>
+      <obj_property name="ObjectShortName">key_hold_value[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/enable_div_tog" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">enable_div_tog</obj_property>
+      <obj_property name="ObjectShortName">enable_div_tog</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/increment_intern" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">increment_intern[10:0]</obj_property>
+      <obj_property name="ObjectShortName">increment_intern[10:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/reset_sine_count" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset_sine_count</obj_property>
+      <obj_property name="ObjectShortName">reset_sine_count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/Inst_Phase_Accumulator/lut_address" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">lut_address[14:0]</obj_property>
+      <obj_property name="ObjectShortName">lut_address[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/uut/sineWave_LUT/sine" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sine[11:0]</obj_property>
+      <obj_property name="ObjectShortName">sine[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/segments" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">segments[0:6]</obj_property>
+      <obj_property name="ObjectShortName">segments[0:6]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/anodes" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">anodes[3:0]</obj_property>
+      <obj_property name="ObjectShortName">anodes[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/final_tb_ever/ain" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ain</obj_property>
+      <obj_property name="ObjectShortName">ain</obj_property>
+   </wvobject>
+</wave_config>

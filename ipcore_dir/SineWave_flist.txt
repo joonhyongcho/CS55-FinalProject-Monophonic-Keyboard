@@ -1,0 +1,15 @@
+# Output products list for <SineWave>
+SineWave.asy
+SineWave.gise
+SineWave.ngc
+SineWave.sym
+SineWave.vhd
+SineWave.vho
+SineWave.xco
+SineWave.xise
+SineWave\doc\dds_compiler_v4_0_vinfo.html
+SineWave\doc\dds_ds558.pdf
+SineWave_flist.txt
+SineWave_readme.txt
+SineWave_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

@@ -1,0 +1,2 @@
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Phase_Accumulator.vhi -module Phase_Accumulator -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Phase_Accumulator.vhd 
+vhdtdtfi -prj CS56-FinalProject -o O:/engs31/CS56-FinalProject/Phase_Accumulator.vhi -module Phase_Accumulator -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Phase_Accumulator.vhd 
